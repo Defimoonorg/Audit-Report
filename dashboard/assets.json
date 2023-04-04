@@ -1,0 +1,594 @@
+{ 
+  "assets": [
+    {
+      "id":1,
+      "logo":"/dashboard/company_logo/algem_logo.svg",
+      "pageLink":"https://www.algem.io/",
+      "name": "Algem",
+      "trusted": true,
+      "audit": {
+        "link": "https://github.com/Defimoonorg/Audit-Report/blob/main/Algem_SiriusHandler_reAuditReport.pdf"
+      },
+      "ecosystem": {
+        "name": "astar",
+        "icon": "/dashboard/chains/astar_chain.svg"
+      },
+      "category": "DeFi",
+      "issues": {
+        "high": 0,
+        "medium": 0,
+        "low": 0,
+        "informational": 1
+      }
+    },
+    {
+      "id": 2,
+      "logo": "/dashboard/company_logo/na_logo.svg",
+      "pageLink":false,
+      "name": "Artpad",
+      "trusted":false,
+      "audit": {
+        "link": "https://github.com/Defimoonorg/Audit-Report/blob/main/Artpad_audit.pdf"
+      },
+      "ecosystem": {
+        "name":"solana",
+        "icon":""
+      },
+      "category":"DeFi",
+      "issues": {
+        "high": 1,
+        "medium": 1,
+        "low": 1,
+        "informational": 0
+      }
+    },
+    {
+      "id": 3,
+      "logo": "https://sitechecker.pro/wp-content/uploads/2017/12/URL-meaning.png",
+      "pageLink":"https://ayoken.com/",
+      "name": "Ayoken",
+      "trusted":false,
+      "audit": {
+        "link": "https://github.com/Defimoonorg/Audit-Report/blob/main/Ayoken.pdf"
+      },
+      "ecosystem": {
+        "name":"BSC",
+        "icon":"https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/dashboard/chains/BSC_chain.svg"
+      },
+      "category":"Token",
+      "issues": {
+        "high": 5,
+        "medium": 3,
+        "low": 46,
+        "informational": 58
+      }
+    },
+    {
+      "id": 4,
+      "logo": "/dashboard/company_logo/na_logo.svg",
+      "pageLink":"https://www.babycake.top/",
+      "name": "BabyCake",
+      "trusted":false,
+      "audit": {
+        "link": "https://github.com/Defimoonorg/Audit-Report/blob/main/BabyCake.pdf"
+      },
+      "ecosystem": {
+        "name":"BSC",
+        "icon":"https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/dashboard/chains/BSC_chain.svg"
+      },
+      "category":"Token",
+      "issues": {
+        "high": 0,
+        "medium": 1,
+        "low": 0,
+        "informational": 5
+      }
+    },
+    {
+      "id": 5,
+      "logo": "https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/tria.png",
+      "pageLink":"https://www.berliner.vip/",
+      "name": "Berliner",
+      "trusted": true,
+      "audit": {
+        "link": "https://github.com/Defimoonorg/Audit-Report/blob/main/Berliner.pdf"
+      },
+      "ecosystem": {
+        "name":"BSC",
+        "icon":"https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/dashboard/chains/BSC_chain.svg"
+      },
+      "category":"Token",
+      "issues": {
+        "high": 0,
+        "medium": 0,
+        "low": 1,
+        "informational": 1
+      }
+    },
+    {
+      "id": 6,
+      "logo": "https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/tria.png",
+      "pageLink":"https://cnxnetwork.org/",
+      "name": "CNX token",
+      "trusted": true,
+      "audit": {
+        "link": "https://github.com/Defimoonorg/Audit-Report/blob/main/CNX_token.pdf"
+      },
+      "ecosystem": {
+        "name":"BSC",
+        "icon":"https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/dashboard/chains/BSC_chain.svg"
+      },
+      "category":"Token",
+      "issues": {
+        "high": 0,
+        "medium": 0,
+        "low": 0,
+        "informational": 3
+      }
+    },
+    {
+      "id": 7,
+      "logo": "https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/tria.png",
+      "pageLink":"https://comtechgold.com/",
+      "name": "Comtech Gold",
+      "trusted": true,
+      "audit": {
+        "link": "https://github.com/Defimoonorg/Audit-Report/blob/main/Comtech-gold.pdf"
+      },
+      "ecosystem": {
+        "name":"N/A",
+        "icon":"https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/dashboard/chains/na_chain.svg"
+      },
+      "category":"Token",
+      "issues": {
+        "high": 0,
+        "medium": 0,
+        "low": 1,
+        "informational": 7
+      }
+    },
+    {
+      "id": 8,
+      "logo": "https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/tria.png",
+      "pageLink":false,
+      "name": "CFP",
+      "trusted": true,
+      "audit": {
+        "link": "https://github.com/Defimoonorg/Audit-Report/blob/main/CryptoForPalestine.pdf"
+      },
+      "ecosystem": {
+        "name":"BSC",
+        "icon":"https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/dashboard/chains/BSC_chain.svg"
+      },
+      "category":"Token",
+      "issues": {
+        "high": 0,
+        "medium": 1,
+        "low": 1,
+        "informational": 3
+      }
+    },
+    {
+      "id": 9,
+      "logo": "https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/tria.png",
+      "pageLink":"https://www.dexfinance.com/",
+      "name": "DEX finance",
+      "trusted": true,
+      "audit": {
+        "link": "https://github.com/Defimoonorg/Audit-Report/blob/main/DEXfinance.pdf"
+      },
+      "ecosystem": {
+        "name":"BSC",
+        "icon":"https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/dashboard/chains/BSC_chain.svg"
+      },
+      "category":"Token",
+      "issues": {
+        "high": 0,
+        "medium": 0,
+        "low": 0,
+        "informational": 4
+      }
+    },
+    
+    {
+      "id": 10,
+      "logo": "https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/tria.png",
+      "pageLink":"https://twitter.com/DecentraListxyz",
+      "name": "Decentra-List",
+      "trusted": true,
+      "audit": {
+        "link": "https://github.com/Defimoonorg/Audit-Report/blob/main/Decentralist.pdf"
+      },
+      "ecosystem": {
+        "name":"ethereum",
+        "icon":"https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/dashboard/chains/eth_chain.svg"
+      },
+      "category":"DeFi",
+      "issues": {
+        "high": 0,
+        "medium": 0,
+        "low": 0,
+        "informational": 2
+      }
+    },
+    {
+      "id": 11,
+      "logo": "https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/tria.png",
+      "pageLink":"https://www.inverse.finance/",
+      "name": "Inverse Finance",
+      "trusted": false,
+      "audit": {
+        "link": "https://github.com/Defimoonorg/Audit-Report/blob/main/InverseFinance.pdf"
+      },
+      "ecosystem": {
+        "name":"ethereum",
+        "icon":"https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/dashboard/chains/eth_chain.svg"
+      },
+      "category":"DeFi",
+      "issues": {
+        "high": 0,
+        "medium": 1,
+        "low": 1,
+        "informational": 3
+      }
+    },
+    {
+      "id": 12,
+      "logo": "https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/tria.png",
+      "pageLink":"https://ledgerfi.io/",
+      "name": "LedgerFi",
+      "trusted": true,
+      "audit": {
+        "link": "https://github.com/Defimoonorg/Audit-Report/blob/main/LedgerFi_reaudit.pdf"
+      },
+      "ecosystem": {
+        "name":"N/A",
+        "icon":"https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/dashboard/chains/na_chain.svg"
+      },
+      "category":"Token",
+      "issues": {
+        "high": 0,
+        "medium": 0,
+        "low": 0,
+        "informational": 3
+      }
+    },
+    {
+      "id": 13,
+      "logo": "https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/tria.png",
+      "pageLink":"https://marmosettoken.com/",
+      "name": "Marmosettoken",
+      "trusted": true,
+      "audit": {
+        "link": "https://github.com/Defimoonorg/Audit-Report/blob/main/Marmosettoken.pdf"
+      },
+      "ecosystem": {
+        "name":"BSC",
+        "icon":"https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/dashboard/chains/BSC_chain.svg"
+      },
+      "category":"Token",
+      "issues": {
+        "high": 0,
+        "medium": 0,
+        "low": 0,
+        "informational": 3
+      }
+    },
+    {
+      "id": 14,
+      "logo": "https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/tria.png",
+      "pageLink":"https://metavault.org/",
+      "name": "Metavault",
+      "trusted": true,
+      "audit": {
+        "link": "https://github.com/Defimoonorg/Audit-Report/blob/main/Metavault_reaudit.pdf"
+      },
+      "ecosystem": {
+        "name":"polygon",
+        "icon":""
+      },
+      "category":"Token",
+      "issues": {
+        "high": 0,
+        "medium": 0,
+        "low": 0,
+        "informational": 0
+      }
+    },
+    {
+      "id": 15,
+      "logo": "https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/tria.png",
+      "pageLink":"https://moovy.io/",
+      "name": "Moovy",
+      "trusted": true,
+      "audit": {
+        "link": "https://github.com/Defimoonorg/Audit-Report/blob/main/Moovy.pdf"
+      },
+      "ecosystem": {
+        "name":"N/A",
+        "icon":"https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/dashboard/chains/na_chain.svg"
+      },
+      "category":"Token",
+      "issues": {
+        "high": 0,
+        "medium": 0,
+        "low": 0,
+        "informational": 6
+      }
+    },
+    {
+      "id": 16,
+      "logo": "https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/tria.png",
+      "pageLink": false,
+      "name": "PPToken",
+      "trusted": true,
+      "audit": {
+        "link": "https://github.com/Defimoonorg/Audit-Report/blob/main/PPToken.pdf"
+      },
+      "ecosystem": {
+        "name":"BSC",
+        "icon":"https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/dashboard/chains/BSC_chain.svg"
+      },
+      "category":"Token",
+      "issues": {
+        "high": 0,
+        "medium": 1,
+        "low": 1,
+        "informational": 4
+      }
+    },
+    {
+      "id": 17,
+      "logo": "https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/tria.png",
+      "pageLink": false,
+      "name": "QuickToken",
+      "trusted": true,
+      "audit": {
+        "link": "https://github.com/Defimoonorg/Audit-Report/blob/main/QuickToken.pdf"
+      },
+      "ecosystem": {
+        "name":"BSC",
+        "icon":"https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/dashboard/chains/BSC_chain.svg"
+      },
+      "category":"Token",
+      "issues": {
+        "high": 0,
+        "medium": 0,
+        "low": 0,
+        "informational": 1
+      }
+    },
+    {
+      "id": 18,
+      "logo": "https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/tria.png",
+      "pageLink": "https://quoth.ai/",
+      "name": "Quoth.ai",
+      "trusted": true,
+      "audit": {
+        "link": "https://github.com/Defimoonorg/Audit-Report/blob/main/Quoth_token_audit_Defimoon.pdf"
+      },
+      "ecosystem": {
+        "name":"N/A",
+        "icon":"https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/dashboard/chains/na_chain.svg"
+      },
+      "category":"Token",
+      "issues": {
+        "high": 0,
+        "medium": 0,
+        "low": 0,
+        "informational": 0
+      }
+    },
+    {
+      "id": 19,
+      "logo": "https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/tria.png",
+      "pageLink": false,
+      "name": "SDC",
+      "trusted": true,
+      "audit": {
+        "link": "https://github.com/Defimoonorg/Audit-Report/blob/main/SaudiDogeCoin.pdf"
+      },
+      "ecosystem": {
+        "name":"N/A",
+        "icon":"https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/dashboard/chains/na_chain.svg"
+      },
+      "category":"Token",
+      "issues": {
+        "high": 0,
+        "medium": 1,
+        "low": 1,
+        "informational": 3
+      }
+    },
+    {
+      "id": 20,
+      "logo": "https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/tria.png",
+      "pageLink": "https://token.shelterz.ru/",
+      "name": "Shelterz",
+      "trusted": true,
+      "audit": {
+        "link": "https://github.com/Defimoonorg/Audit-Report/blob/main/Shelterz.pdf"
+      },
+      "ecosystem": {
+        "name":"BSC",
+        "icon":"https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/dashboard/chains/BSC_chain.svg"
+      },
+      "category":"Token",
+      "issues": {
+        "high": 0,
+        "medium": 0,
+        "low": 0,
+        "informational": 2
+      }
+    },
+    {
+      "id": 21,
+      "logo": "https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/tria.png",
+      "pageLink": "https://smeratoken.com",
+      "name": "SmeraToken",
+      "trusted": true,
+      "audit": {
+        "link": "https://github.com/Defimoonorg/Audit-Report/blob/main/SmeraToken.pdf"
+      },
+      "ecosystem": {
+        "name":"BSC",
+        "icon":"https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/dashboard/chains/BSC_chain.svg"
+      },
+      "category":"Token",
+      "issues": {
+        "high": 0,
+        "medium": 0,
+        "low": 0,
+        "informational": 2
+      }
+    },
+    {
+      "id": 22,
+      "logo": "https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/tria.png",
+      "pageLink": false,
+      "name": "SolarDiamond",
+      "trusted": true,
+      "audit": {
+        "link": "https://github.com/Defimoonorg/Audit-Report/blob/main/SolarDiamond.pdf"
+      },
+      "ecosystem": {
+        "name":"N/A",
+        "icon":"https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/dashboard/chains/na_chain.svg"
+      },
+      "category":"Token",
+      "issues": {
+        "high": 0,
+        "medium": 0,
+        "low": 0,
+        "informational": 0
+      }
+    },
+    {
+      "id": 23,
+      "logo": "https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/tria.png",
+      "pageLink": "https://spherium.finance/",
+      "name": "Spherium",
+      "trusted": true,
+      "audit": {
+        "link": "https://github.com/Defimoonorg/Audit-Report/blob/main/Spherium_reaudit.pdf"
+      },
+      "ecosystem": {
+        "name":"N/A",
+        "icon":"https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/dashboard/chains/na_chain.svg"
+      },
+      "category":"Token",
+      "issues": {
+        "high": 0,
+        "medium": 0,
+        "low": 0,
+        "informational": 0
+      }
+    },
+    {
+      "id": 24,
+      "logo": "https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/tria.png",
+      "pageLink": false,
+      "name": "SuperPAD",
+      "trusted": true,
+      "audit": {
+        "link": "https://github.com/Defimoonorg/Audit-Report/blob/main/SuperPad_Reaudit.pdf"
+      },
+      "ecosystem": {
+        "name":"BSC",
+        "icon":"https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/dashboard/chains/BSC_chain.svg"
+      },
+      "category":"Token",
+      "issues": {
+        "high": 0,
+        "medium": 0,
+        "low": 1,
+        "informational": 3
+      }
+    },
+    {
+      "id": 25,
+      "logo": "https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/tria.png",
+      "pageLink": "https://buy.syndiqate.io/",
+      "name": "SQAT",
+      "trusted": true,
+      "audit": {
+        "link": "https://github.com/Defimoonorg/Audit-Report/blob/main/Syndiqate_Project.pdf"
+      },
+      "ecosystem": {
+        "name":"BSC",
+        "icon":"https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/dashboard/chains/BSC_chain.svg"
+      },
+      "category":"Token",
+      "issues": {
+        "high": 0,
+        "medium": 0,
+        "low": 0,
+        "informational": 0
+      }
+    },
+    {
+      "id": 26,
+      "logo": "https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/tria.png",
+      "pageLink": false,
+      "name": "ThunderEV",
+      "trusted": true,
+      "audit": {
+        "link": "https://github.com/Defimoonorg/Audit-Report/blob/main/ThunderEV_reaudit.pdf"
+      },
+      "ecosystem": {
+        "name":"ethereum",
+        "icon":"https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/dashboard/chains/eth_chain.svg"
+      },
+      "category":"Token",
+      "issues": {
+        "high": 0,
+        "medium": 0,
+        "low": 1,
+        "informational": 0
+      }
+    },
+    {
+      "id": 27,
+      "logo": "https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/tria.png",
+      "pageLink": "https://aerariumfi.com/",
+      "name": "AERARIUM FI",
+      "trusted": true,
+      "audit": {
+        "link": "https://github.com/Defimoonorg/Audit-Report/blob/main/TulipDAOxDefimoon_Aerarium.pdf"
+      },
+      "ecosystem": {
+        "name":"N/A",
+        "icon":"https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/dashboard/chains/na_chain.svg"
+      },
+      "category":"Token",
+      "issues": {
+        "high": 0,
+        "medium": 0,
+        "low": 1,
+        "informational": 0
+      }
+    },
+    {
+      "id": 27,
+      "logo": "https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/tria.png",
+      "pageLink": "https://zeedex.io/",
+      "name": "Zeedex",
+      "trusted": true,
+      "audit": {
+        "link": "https://github.com/Defimoonorg/Audit-Report/blob/main/Zeedex.pdf"
+      },
+      "ecosystem": {
+        "name":"ethereum",
+        "icon":"https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/dashboard/chains/eth_chain.svg"
+      },
+      "category":"Token",
+      "issues": {
+        "high": 0,
+        "medium": 0,
+        "low": 0,
+        "informational": 6
+      }
+    }
+  ]
+}
+ 
