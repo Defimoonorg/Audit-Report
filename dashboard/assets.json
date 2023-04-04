@@ -588,6 +588,26 @@
         "low": 0,
         "informational": 6
       }
+          {
+      "id": 28,
+      "logo": "https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/tria.png",
+      "pageLink": "https://www.vyperprotocol.io/",
+      "name": "Vyper Protocol",
+      "trusted": true,
+      "audit": {
+        "link": "https://github.com/Defimoonorg/Audit-Report/blob/main/Vyper_Protocol.pdf"
+      },
+      "ecosystem": {
+        "name":"rust",
+        "icon":"https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/dashboard/chains/eth_chain.svg"
+      },
+      "category":"Token",
+      "issues": {
+        "high": 0,
+        "medium": 0,
+        "low": 0,
+        "informational": 0
+      }
     }
   ]
 }
