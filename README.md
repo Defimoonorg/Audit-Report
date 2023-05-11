@@ -8,11 +8,11 @@ This means creating sandboxes and testing environments and testing functions in 
 
 Our methodology is also described in the report 
 
-#Follow our social channels:
+# Follow our social channels:
 - Official web : https://defimoon.org
 - Twitter Official: https://twitter.com/defimoon_org
 - Telegram: https://t.me/defimoonorg
 - LinkedIn: https://www.linkedin.com/company/defimoon/
 
-#Feel free to contact us immediately 
+# Feel free to contact us immediately 
 - Telegram: https://t.me/defimoonorg
